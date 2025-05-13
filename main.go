@@ -122,6 +122,7 @@ var supportedLocations = map[string]*location{
 	"la":        {nil, 34.052235, -118.243683, "America/Los_Angeles", "Los Angeles"},
 	"nyc":       {nil, 40.712776, -74.005974, "America/New_York", "New York City"},
 	"tokyo":     {nil, 35.689487, 139.691711, "Asia/Tokyo", "Tokyo"},
+	"singapore": {nil, 1.290270, 103.851959, "Asia/Singapore", "Singapore"},
 	"warsaw":    {nil, 52.229675, 21.012230, "Europe/Warsaw", "Warsaw"},
 	"zurich":    {nil, 47.369019, 8.538030, "Europe/Zurich", "Zurich"},
 	"berlin":    {nil, 52.520008, 13.404954, "Europe/Berlin", "Berlin"},
