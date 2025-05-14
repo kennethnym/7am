@@ -131,7 +131,6 @@ var supportedLocations = map[string]location{
 	"dubai":  {nil, 25.204849, 55.270782, "Asia/Dubai", "Dubai"},
 	"manila": {nil, 14.599512, 120.984222, "Asia/Dubai", "Manila"},
 	"hong kong": {nil, 22.317053, 114.169547, "Asia/Hong_Kong", "Hong Kong"},
-	"singapore": {nil, 1.352083, 103.819836, "Asia/Singapore", "Singapore"},
 }
 
 func main() {
