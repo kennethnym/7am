@@ -125,12 +125,13 @@ var supportedLocations = map[string]location{
 	"la":     {nil, 34.052235, -118.243683, "America/Los_Angeles", "Los Angeles"},
 	"nyc":    {nil, 40.712776, -74.005974, "America/New_York", "New York City"},
 	"tokyo":  {nil, 35.689487, 139.691711, "Asia/Tokyo", "Tokyo"},
+	"manila": {nil, 14.599512, 120.984222, "Asia/Dubai", "Manila"},
 	"warsaw": {nil, 52.229675, 21.012230, "Europe/Warsaw", "Warsaw"},
 	"zurich": {nil, 47.369019, 8.538030, "Europe/Zurich", "Zurich"},
 	"berlin": {nil, 52.520008, 13.404954, "Europe/Berlin", "Berlin"},
 	"dubai":  {nil, 25.204849, 55.270782, "Asia/Dubai", "Dubai"},
-	"manila": {nil, 14.599512, 120.984222, "Asia/Dubai", "Manila"},
-	"hong kong": {nil, 22.317053, 114.169547, "Asia/Hong_Kong", "Hong Kong"},
+	
+
 }
 
 func main() {
