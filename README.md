@@ -1,6 +1,6 @@
 # 7am
 
-[7am.is](https://7am.is)
+[7am.nym.sh](https://7am.nym.sh)
 
 ![](./screenshot/homepage.png)
 
