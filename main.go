@@ -132,6 +132,8 @@ var supportedLocations = map[string]*location{
 	"paris":     {nil, 48.864716, 2.349014, "Europe/Paris", "Paris"},
 	"stockholm": {nil, 59.329323, 18.068581, "Europe/Stockholm", "Stockholm"},
 	"amsterdam": {nil, 52.370216, 4.895168, "Europe/Amsterdam", "Amsterdam"},
+	"newdelhi":  {nil, 28.613939, 77.209023, "Asia/Kolkata", "New Delhi"},
+	"mumbai":    {nil, 19.075983, 72.877655, "Asia/Kolkata", "Mumbai"},
 }
 
 func main() {
